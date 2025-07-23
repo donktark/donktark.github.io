@@ -1,0 +1,51 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
+publishedDir = "/published"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Github.io Blog
+  description: "SSG를 이용한 github.io 기술 블로그입니다."
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  DateFormat: "2006 Jan 2"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  profileMode:
+    enabled: true
+    title: "Github.io Blog __🖋" # optional default will be site title
+    subtitle: "SSG (Hugo)를 이용한 블로그 만들기"
+    # imageUrl: "<image link>" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "/blog"
+      - name: Github
+        url: "https://github.com/donktark/donktark.github.io"
+
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 3
