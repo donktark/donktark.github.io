@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://donktark.github.io/docs/sitemap.xml
+Sitemap: https://donktark.github.io/sitemap.xml
