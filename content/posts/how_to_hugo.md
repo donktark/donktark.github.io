@@ -28,11 +28,12 @@ hugo new site my-blog
 ## 테마 적용
 ```bash
 git init
-git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
-echo "theme = "hello-friend-ng" >> hugo.toml"
+git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+git submodule update --init --recursive
+echo "theme = "hello-friend-ng" >> hugo.yaml"
 ```
-[🔗Hugo 공식 테마 페이지](https://themes.gohugo.io/)에서 <i>hello-friends-ng</i> 테마를 선택하여 hugo 작업 디렉토리에 git을 통해 다운로드 <br><br>
+[🔗Hugo 공식 테마 페이지](https://themes.gohugo.io/)에서 <i>PaperMod</i> 테마를 선택하여 hugo 작업 디렉토리에 git을 통해 다운로드 <br><br>
 
-## hugo.toml 구성
+## hugo.yaml 구성
 ```bash
 ```
