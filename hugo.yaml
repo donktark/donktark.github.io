@@ -3,7 +3,8 @@ relativeURLs : true
 canonifyURLs : true
 # languageCode: en-us
 title: My New Hugo Site
-theme: ["PaperMod"]
+theme: PaperMod
+pagenate : 5
 publishedDir : "/docs" 
 
 enableRobotsTXT: true
