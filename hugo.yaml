@@ -53,8 +53,8 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Blog
-        url: "/blog/"
+      - name: Posts
+        url: "/posts/"
       - name: Github
         url: "https://github.com/donktark/donktark.github.io"
 
@@ -62,7 +62,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "</assets>"
+    # favicon: "</assets>"
     # favicon16x16: "<link / abs url>"
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
@@ -71,9 +71,9 @@ params:
 
 menu:
   main:
-    - identifier: blog
-      name: Blog
-      url: /blog/
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 1
     - identifier: tags
       name: Tags
