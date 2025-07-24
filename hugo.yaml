@@ -51,7 +51,7 @@ params:
     subtitle: "SSG (Hugo)를 이용한 블로그 만들기"
     imageUrl: "/images/puppy.png" # optional
     imageTitle: "Goldeng" # optional
-    imageWidth: 120 # custom size
+    imageWidth: 135 # custom size
     imageHeight: 120 # custom size
     buttons:
       - name: Archive
