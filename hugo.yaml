@@ -49,7 +49,7 @@ params:
     enabled: true
     title: "Github.io Blog __🖋" # optional default will be site title
     subtitle: "SSG (Hugo)를 이용한 블로그 만들기"
-    imageUrl: "/images/" # optional
+    imageUrl: "/images/puppy.png" # optional
     imageTitle: "Goldeng" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
