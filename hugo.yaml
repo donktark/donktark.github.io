@@ -72,9 +72,9 @@ params:
 
 menu:
   main:
-    - identifier: archive
-      name: Archive
-      url: /archive/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 1
     - identifier: posts
       name: Posts
