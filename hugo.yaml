@@ -1,7 +1,7 @@
 baseURL: "https://donktark.github.io/"
 relativeURLs : true
 canonifyURLs : true
-languageCode: en-us
+# languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
 publishedDir : "/docs" 
@@ -10,6 +10,10 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -32,7 +36,7 @@ params:
     imageHeight: 120 # custom size
     buttons:
       - name: Blog
-        url: "/blog"
+        url: "/blog/"
       - name: Github
         url: "https://github.com/donktark/donktark.github.io"
 
