@@ -2,9 +2,9 @@
 date: '2025-07-24T17:21:16+09:00'
 draft: false
 title: '깃허브로 커밋하기'
-url: "/posts/"
+url: "/posts/git_commit"
 summary: posts
-# tags : "hugo"
+tags : "hugo"
 # menu :
 #     docs :
 #         parent: "시작하기"
@@ -24,3 +24,4 @@ git add .
 git commit -m %1
 git push origin main
 ```
+

@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://donktark.github.io/tags/hugo/</loc>
+    <lastmod>2025-07-24T17:21:16+09:00</lastmod>
+  </url><url>
     <loc>https://donktark.github.io/</loc>
     <lastmod>2025-07-24T17:21:16+09:00</lastmod>
   </url><url>
     <loc>https://donktark.github.io/posts/</loc>
     <lastmod>2025-07-24T17:21:16+09:00</lastmod>
   </url><url>
-    <loc>https://donktark.github.io/posts/</loc>
+    <loc>https://donktark.github.io/tags/</loc>
     <lastmod>2025-07-24T17:21:16+09:00</lastmod>
   </url><url>
-    <loc>https://donktark.github.io/posts/</loc>
+    <loc>https://donktark.github.io/posts/git_commit/</loc>
+    <lastmod>2025-07-24T17:21:16+09:00</lastmod>
+  </url><url>
+    <loc>https://donktark.github.io/posts/hugo_start/</loc>
     <lastmod>2025-07-24T10:55:25+09:00</lastmod>
   </url><url>
     <loc>https://donktark.github.io/about/</loc>
@@ -20,7 +26,5 @@
     <loc>https://donktark.github.io/archives/</loc>
   </url><url>
     <loc>https://donktark.github.io/categories/</loc>
-  </url><url>
-    <loc>https://donktark.github.io/tags/</loc>
   </url>
 </urlset>

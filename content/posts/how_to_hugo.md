@@ -2,9 +2,9 @@
 date: '2025-07-24T10:55:25+09:00'
 draft: false
 title: '휴고 시작하기'
-url: "/posts/"
+url: "/posts/hugo_start"
 summary: posts
-# tags : "hugo"
+tags : "hugo"
 # menu :
 #     docs :
 #         parent: "시작하기"
