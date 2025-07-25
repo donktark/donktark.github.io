@@ -5,9 +5,9 @@ title: '휴고 시작하기'
 url: "/posts/"
 summary: posts
 tag : ["Hugo"]
-menu :
-    docs :
-        parent: "시작하기"
+# menu :
+#     docs :
+#         parent: "시작하기"
 ---
 
 # Hugo 설치 및 디렉토리 구성  
