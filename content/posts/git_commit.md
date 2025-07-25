@@ -1,13 +1,13 @@
 ---
 date: '2025-07-24T17:21:16+09:00'
-draft: true
+draft: false
 title: '깃허브로 커밋하기'
 url: "/posts/"
 summary: posts
-tag: ['Hugo']
-menu :
-    docs :
-        parent: "시작하기"
+tags : "hugo"
+# menu :
+#     docs :
+#         parent: "시작하기"
 ---
 
 

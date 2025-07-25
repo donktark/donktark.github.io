@@ -4,7 +4,7 @@ draft: false
 title: '휴고 시작하기'
 url: "/posts/"
 summary: posts
-tag : "hugo"
+tags : "hugo"
 # menu :
 #     docs :
 #         parent: "시작하기"
