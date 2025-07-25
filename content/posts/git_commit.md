@@ -4,7 +4,7 @@ draft: false
 title: '깃허브로 커밋하기'
 url: "/posts/"
 summary: posts
-tags : "hugo"
+# tags : "hugo"
 # menu :
 #     docs :
 #         parent: "시작하기"
