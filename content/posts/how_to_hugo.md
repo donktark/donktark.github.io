@@ -2,7 +2,7 @@
 date: '2025-07-24T10:55:25+09:00'
 draft: false
 title: '휴고 시작하기'
-url: "/posts/hugo_start"
+url: "/posts/how_to_hugo.md"
 summary: posts
 tags : "hugo"
 # menu :

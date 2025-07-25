@@ -2,7 +2,7 @@
 date: '2025-07-24T17:21:16+09:00'
 draft: false
 title: '깃허브로 커밋하기'
-url: "/posts/git_commit"
+url: "/posts/git_commit.md"
 summary: posts
 tags : "hugo"
 # menu :
