@@ -1,10 +1,13 @@
 ---
 date: '2025-07-24T10:55:25+09:00'
 draft: false
-title: 'How_to_hugo'
+title: '휴고 시작하기'
 url: "/posts/"
 summary: posts
-tag : "Hugo"
+tag : ["Hugo"]
+menu :
+    docs :
+        parent: "시작하기"
 ---
 
 # Hugo 설치 및 디렉토리 구성  
@@ -36,4 +39,16 @@ echo "theme = "hello-friend-ng" >> hugo.yaml"
 
 ## hugo.yaml 구성
 ```bash
+#hugo.yaml
+
+baseURL: "https://donktark.github.io/"
+relativeURLs : true
+canonifyURLs : true
+# languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
+pagenate : 5
+publishedDir : "/docs" 
+
+....
 ```
