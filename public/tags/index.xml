@@ -6,6 +6,14 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 24 Jul 2025 17:21:16 +0900</lastBuildDate>
     <atom:link href="https://donktark.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag:hugo</title>
+      <link>https://donktark.github.io/tags/taghugo/</link>
+      <pubDate>Thu, 24 Jul 2025 17:21:16 +0900</pubDate>
+      <guid>https://donktark.github.io/tags/taghugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

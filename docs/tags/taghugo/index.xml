@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://donktark.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Tag:hugo on My New Hugo Site</title>
+    <link>https://donktark.github.io/tags/taghugo/</link>
+    <description>Recent content in Tag:hugo on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 24 Jul 2025 17:21:16 +0900</lastBuildDate>
-    <atom:link href="https://donktark.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://donktark.github.io/tags/taghugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>깃허브로 커밋하기</title>
       <link>https://donktark.github.io/posts/git_commit/</link>
@@ -21,16 +21,6 @@
       <pubDate>Thu, 24 Jul 2025 10:55:25 +0900</pubDate>
       <guid>https://donktark.github.io/posts/how_to_hugo/</guid>
       <description>posts</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://donktark.github.io/about/</link>
-      <pubDate>Thu, 24 Jul 2025 10:54:53 +0900</pubDate>
-      <guid>https://donktark.github.io/about/</guid>
-      <description>&lt;hr&gt;
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;a href=&#34;donghyeon.lee@azwell.ai,&#34; title=&#34;메일 보내기&#34;&gt;donghyeon.lee@azwell.ai 📧&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

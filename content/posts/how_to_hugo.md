@@ -2,9 +2,9 @@
 date: '2025-07-24T10:55:25+09:00'
 draft: false
 title: '휴고 시작하기'
-url: "/posts/how_to_hugo.md"
+url: "/posts/how_to_hugo"
 summary: posts
-tags : "hugo"
+tags : ["tag:hugo"]
 # menu :
 #     docs :
 #         parent: "시작하기"
@@ -12,7 +12,7 @@ tags : "hugo"
 
 # Hugo 설치 및 디렉토리 구성  
 
-## 설치하기 (Windows)
+### 설치하기 (Windows)
 ```bash
 # 인스톨
 winget install Hugo.Hugo.Extended
@@ -22,13 +22,13 @@ winget uninstall --name "Hugo (Extended)"
 ```
 Hugo Extended 버전으로 설치 <br><br>
 
-## 디렉토리 만들기
+### 디렉토리 만들기
 ```bash
 hugo new site my-blog
 ```
 경로로 cd를 통해서 들어간 뒤 `my-blog`라는 Hugo 디렉토리 생성 <br> <br>
 
-## 테마 적용
+### 테마 적용
 ```bash
 git init
 git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
