@@ -5,6 +5,7 @@ title: '새로운 포스트 업로드 하기'
 url: "/posts/posts_upload"
 summary: posts
 tags : ["tag:hugo"]
+categories : ["Hugo"]
 ---
 
 # 휴고로 게시물(Post) 업로드 하기

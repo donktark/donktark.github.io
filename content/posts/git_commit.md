@@ -5,7 +5,7 @@ title: '깃허브로 커밋하기'
 url: "/posts/git_commit"
 summary: posts
 tags : ["tag:hugo"]
-
+categories : ["Hugo"]
 ---
 
 

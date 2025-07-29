@@ -1,11 +1,11 @@
 ---
-date: '1925-06-29T09:27:51+09:00'
+date: '2025-06-29T09:27:51+09:00'
 draft: false
 title: '파이'
 url: "/posts/pie"
 summary: posts
-tags : ["tag:others"]
-
+tags : ["tag:pie"]
+categories : ["Others"]
 ---
 
 ## 파이란?

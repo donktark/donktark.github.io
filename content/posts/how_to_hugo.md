@@ -5,7 +5,7 @@ title: '휴고 시작하기'
 url: "/posts/how_to_hugo"
 summary: posts
 tags : ["tag:hugo"]
-
+categories : ["Hugo"]
 ---
 
 # Hugo 설치 및 디렉토리 구성  
