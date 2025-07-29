@@ -48,7 +48,7 @@ Hugo의 shortcodes를 이용해서 적용
 |값|6|4|2|
 |색깔|<span style="color: rgb(255,24,22);">■255,24,22</span>|<span style="color: rgb(222, 102, 15);">■222,102,15</span>|<span style="color: rgb(89,13,10);">■89,13,10</span>|  
 
-`hugo.taml`에서 
+
 ```plain_text
 markup:
   goldmark:
@@ -56,4 +56,4 @@ markup:
       unsafe: true
 ```
 
-해당 항목 추가해서 html의 span 기능을 사용할 수 있도록 활성화
+`hugo.yaml`에서 위 항목 추가해서 html의 span 기능을 사용할 수 있도록 활성화
