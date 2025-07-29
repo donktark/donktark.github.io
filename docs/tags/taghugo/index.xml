@@ -6,8 +6,15 @@
     <description>Recent content in Tag:hugo on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Jul 2025 17:21:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 09:15:07 +0900</lastBuildDate>
     <atom:link href="https://donktark.github.io/tags/taghugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>새로운 포스트 업로드 하기</title>
+      <link>https://donktark.github.io/posts/posts_upload/</link>
+      <pubDate>Tue, 29 Jul 2025 09:15:07 +0900</pubDate>
+      <guid>https://donktark.github.io/posts/posts_upload/</guid>
+      <description>posts</description>
+    </item>
     <item>
       <title>깃허브로 커밋하기</title>
       <link>https://donktark.github.io/posts/git_commit/</link>

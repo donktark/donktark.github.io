@@ -5,18 +5,17 @@ title: '깃허브로 커밋하기'
 url: "/posts/git_commit"
 summary: posts
 tags : ["tag:hugo"]
-# menu :
-#     docs :
-#         parent: "시작하기"
+
 ---
 
 
 # 깃허브.io로 커밋하기
 
-### Github.io 리포지토리 설정 바꾸기
+## Github.io 리포지토리 설정 바꾸기
 ![](/posts/images/github_io_setting.png)
+github.io가 root가 아닌 docs의 내용을 읽고 반영하도록 설정
 
-### 변경사항 저장 및 깃 푸시 명령어
+## 변경사항 저장 및 깃 푸시 명령어
 ```bash
 hugo
 xcopy /E /Y /I "C:<PATH>\my-blog\public\* C:<PATH>\my-blog\docs"

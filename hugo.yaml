@@ -28,22 +28,25 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
 
+  socialIcons:
+    - name: "youtube"
+      url : "https://youtube.com"
 
   profileMode:
     enabled: true
@@ -54,7 +57,7 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archives
+      - name: Start
         url: "/archives/"
       - name: Github
         url: "https://github.com/donktark/donktark.github.io"
@@ -68,6 +71,11 @@ params:
     # favicon32x32: "<link / abs url>"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 
 menu:

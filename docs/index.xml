@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Jul 2025 17:21:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 09:15:07 +0900</lastBuildDate>
     <atom:link href="https://donktark.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>새로운 포스트 업로드 하기</title>
+      <link>https://donktark.github.io/posts/posts_upload/</link>
+      <pubDate>Tue, 29 Jul 2025 09:15:07 +0900</pubDate>
+      <guid>https://donktark.github.io/posts/posts_upload/</guid>
+      <description>posts</description>
+    </item>
     <item>
       <title>깃허브로 커밋하기</title>
       <link>https://donktark.github.io/posts/git_commit/</link>
@@ -29,8 +36,16 @@
       <guid>https://donktark.github.io/about/</guid>
       <description>&lt;hr&gt;
 &lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br&gt;
+&lt;div align=&#39;center&#39;&gt; &lt;font size=&#34;5&#34;&gt; E-mail : donghyeon.lee@azwell.ai &lt;font&gt; &lt;div&gt;  
 &lt;p&gt;&lt;a href=&#34;donghyeon.lee@azwell.ai,&#34; title=&#34;메일 보내기&#34;&gt;donghyeon.lee@azwell.ai 📧&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>파이</title>
+      <link>https://donktark.github.io/posts/pie/</link>
+      <pubDate>Mon, 29 Jun 1925 09:27:51 +0900</pubDate>
+      <guid>https://donktark.github.io/posts/pie/</guid>
+      <description>posts</description>
     </item>
   </channel>
 </rss>
