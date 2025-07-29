@@ -14,7 +14,7 @@ tags : ["tag:hugo"]
 # 깃허브.io로 커밋하기
 
 ### Github.io 리포지토리 설정 바꾸기
-![](../images/logo.jpg)
+![](/posts/images/github_io_setting.png)
 
 ### 변경사항 저장 및 깃 푸시 명령어
 ```bash

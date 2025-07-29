@@ -54,8 +54,8 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archive/"
+      - name: Archives
+        url: "/archives/"
       - name: Github
         url: "https://github.com/donktark/donktark.github.io"
 
