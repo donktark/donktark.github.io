@@ -57,7 +57,7 @@ params:
     imageHeight: 120 # custom size
     buttons:
       - name: Start
-        url: "/Categories/"
+        url: "/categories/"
       - name: Github
         url: "https://github.com/donktark/donktark.github.io"
 
