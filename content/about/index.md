@@ -2,6 +2,7 @@
 date: '2025-07-24T10:54:53+09:00'
 draft: false
 title: 'About'
+showtoc: false
 ---
 
 ---
