@@ -13,7 +13,7 @@ categories : ["Others"]
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/1280px-Apple_pie.jpg width=45%>
 
-파이(pie)는 파이 그릇을 이용하여 밀가루 반죽을 밑에 깔고 또 하나는 위에 덮어 고기나 과일 등을 그 사이에 채워서 구운 서양 요리로,[1] 후식이나 간식으로 먹기도 한다. 한국에서는 파이(pie)라는 말을 구운 서양식 과자인 퍼프 페이스트리(Puff pastry)를 지칭하는 용어로 사용하고 있어[2] 약간에 혼동이 있다.
+파이(pie)는 파이 그릇을 이용하여 밀가루 반죽을 밑에 깔고 또 하나는 위에 덮어 고기나 과일 등을 그 사이에 채워서 구운 서양 요리로, 후식이나 간식으로 먹기도 한다. 한국에서는 파이(pie)라는 말을 구운 서양식 과자인 퍼프 페이스트리(Puff pastry)를 지칭하는 용어로 사용하고 있어 약간에 혼동이 있다.
 
 ## 파이 차트
 [🔗휴고에 chart.js 적용시키는 방법](https://kmcd.dev/posts/hugo-chartjs/)
