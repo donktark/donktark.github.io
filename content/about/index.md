@@ -9,4 +9,7 @@ title: 'About'
 <br>
 <div align='center'> <font size="5"> E-mail : donghyeon.lee@azwell.ai <font> <div>  
 
-[donghyeon.lee@azwell.ai 📧](donghyeon.lee@azwell.ai, "메일 보내기")
+[donghyeon.lee@azwell.ai 📧](mailto:donghyeon.lee@azwell.ai, "메일 보내기")
+
+<br><br><br>
+---
