@@ -5,10 +5,10 @@ theme: hextra
 
 menu:
   main:
-    - identifier: Home
-      name: Home
-      pageRef: /
-      weight: 0
+    # - identifier: Home
+    #   name: Home
+    #   pageRef: /
+    #   weight: 0
     - identifier: Tutorial
       name: Tutorial
       pageRef: /docs
