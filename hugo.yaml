@@ -5,10 +5,6 @@ theme: hextra
 
 menu:
   main:
-    # - identifier: Home
-    #   name: Home
-    #   pageRef: /
-    #   weight: 0
     - identifier: Tutorial
       name: Tutorial
       pageRef: /docs
@@ -27,8 +23,6 @@ menu:
       params:
         icon: github
 
-    - identifier: 
-
 params:
   defaultSection: docs
   navbar:
@@ -36,7 +30,7 @@ params:
     displayLogo: true
     logo:
       path: images/logo.png
-      link: /docs
+      link: /
       width: 36
       height: 36
   theme:
