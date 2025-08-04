@@ -9,8 +9,6 @@ menu:
       name: Home
       pageRef: /
       weight: 0
-      params:
-        StartButton: true
     - identifier: Tutorial
       name: Tutorial
       pageRef: /docs
