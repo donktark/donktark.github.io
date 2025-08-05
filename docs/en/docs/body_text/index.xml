@@ -1,0 +1,146 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLops 기술 블로그 – 본문 내용</title>
+    <link>https://donktark.github.io/en/docs/body_text/</link>
+    <description>Recent content in 본문 내용 on MLops 기술 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Aug 2025 13:14:38 +0900</lastBuildDate>
+    
+	  <atom:link href="https://donktark.github.io/en/docs/body_text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>본문1 - 이미지</title>
+      <link>https://donktark.github.io/en/docs/body_text/body_post/</link>
+      <pubDate>Mon, 04 Aug 2025 13:17:22 +0900</pubDate>
+      
+      <guid>https://donktark.github.io/en/docs/body_text/body_post/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;image insertion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;image-insertion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#image-insertion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;이미지 삽입하기&lt;/p&gt;
+&lt;h3&gt;Local Image insertion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;local-image-insertion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#local-image-insertion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://donktark.github.io/images/cat_photo.jpg&#34; width=120%&gt;
+&lt;h3&gt;Web Image insertion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;web-image-insertion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#web-image-insertion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp&#34; width=120%&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>본문2 - Chart.js</title>
+      <link>https://donktark.github.io/en/docs/body_text/body_post2/</link>
+      <pubDate>Mon, 04 Aug 2025 13:29:20 +0900</pubDate>
+      
+      <guid>https://donktark.github.io/en/docs/body_text/body_post2/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Chart insertion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;chart-insertion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#chart-insertion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;차트 삽입하기&lt;/p&gt;
+&lt;h3&gt;Bar chart&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;bar-chart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bar-chart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt; Chart.defaults.color = &#39;#bcbcbc&#39;; &lt;/script&gt;&lt;div class=&#34;chart&#34;&gt;
+    &lt;canvas id=&#34;2cbd99206c163d09&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+        var ctx = document.getElementById(&#39;2cbd99206c163d09&#39;)
+        var options = 
+{
+    type: &#39;bar&#39;,
+    data: {
+        labels: [
+            &#39;Red&#39;,
+            &#39;Blue&#39;,
+            &#39;Green&#39;
+        ],
+        datasets: [{
+            label : &#39;Bar value&#39;,
+            data: [6, 11, 9],
+            backgroundColor: [
+                &#39;rgb(255, 2, 15)&#39;,
+                &#39;rgb(2, 68, 255)&#39;,
+                &#39;rgb(18,213,3)&#39;
+            ]
+        }]
+    },
+    options: {}
+};
+        new Chart(ctx, options);
+    });
+&lt;/script&gt;
+&lt;h3&gt;Doughnut chart&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;doughnut-chart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#doughnut-chart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;chart&#34;&gt;
+    &lt;canvas id=&#34;818a8dc5d0b61b7f&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+        var ctx = document.getElementById(&#39;818a8dc5d0b61b7f&#39;)
+        var options = 
+{
+    type: &#39;doughnut&#39;,
+    data: {
+        labels: [
+            &#39;Red&#39;,
+            &#39;Blue&#39;,
+            &#39;Green&#39;
+        ],
+        datasets: [{
+            label : &#39;Doughnut value&#39;,
+            data: [6, 11, 9],
+            backgroundColor: [
+                &#39;rgb(255, 2, 15)&#39;,
+                &#39;rgb(2, 68, 255)&#39;,
+                &#39;rgb(18,213,3)&#39;
+            ]
+        }]
+    },
+    options: {}
+};
+        new Chart(ctx, options);
+    });
+&lt;/script&gt;
+&lt;h3&gt;Line chart&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;line-chart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#line-chart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;chart&#34;&gt;
+    &lt;canvas id=&#34;f5af5a566b5bdafd&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+        var ctx = document.getElementById(&#39;f5af5a566b5bdafd&#39;)
+        var options = 
+{
+    type: &#39;line&#39;,
+    data: {
+        labels: [
+            &#39;Red&#39;,
+            &#39;Blue&#39;,
+            &#39;Green&#39;
+        ],
+        datasets: [{
+            label : &#39;Line value&#39;,
+            data: [6, 11, 9],
+            backgroundColor: [
+                &#39;rgb(255, 2, 15)&#39;,
+                &#39;rgb(2, 68, 255)&#39;,
+                &#39;rgb(18,213,3)&#39;
+            ]
+        }]
+    },
+    options: {}
+};
+        new Chart(ctx, options);
+    });
+&lt;/script&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

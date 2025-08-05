@@ -36,6 +36,9 @@ params:
   theme:
     defalut: system
     displayToggle: true
+  assets:
+    customCSS:
+      - css/custom.css
 
 defaultContentLanguage: ko
 languages:
@@ -45,3 +48,8 @@ languages:
   en:
     languageName: English
     weight: 2
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

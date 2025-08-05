@@ -1,7 +1,8 @@
 ---
 date: '2025-07-31T15:04:02+09:00'
-draft: true
+draft: false
 title: 'Introduction'
+weight: 1
 ---
 ## hello
 hello <br>

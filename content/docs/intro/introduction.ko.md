@@ -1,31 +1,39 @@
 ---
 date: '2025-07-31T15:04:02+09:00'
-draft: true
+draft: false
 title: '소개'
+weight: 1
 ---
-## hello
-hello <br>
+## 대분류 1
+대분류1의 내용 <br>
 👋   
 
 
-### world
-hello wold <br>
-🌏    
-<br><br><br>   
+### 중분류 1-1
+대분류1의 하위 항목 <br>
+🌏  
+```plain_text
+code
+code2
+```
 
-
-## Nice to
-nice<br>
+## 대분류 2
+대분류2의 내용<br>
 👍    
 
 
-### meet
-#### you
-nice to meet you<br>
+### 중분류 2-1
+#### 소분류 2-1-1
+대분류2와 중분류 2-1에 대한 내용 1<br>
 🤝    
-
-
-### see
-#### you
-nice to see you<br>
+#### 소분류 2-1-2
+대분류2와 중분류 2-1에 대한 내용 2<br>
+🐱
+|col1|col2|col3|
+|:---:|:---:|:---:|
+|row1|row1|row1|
+|row2|row2|row2|
+### 중분류 2-2
+#### 소분류 2-2-1
+대분류2와 중분류 2-2에 대한 내용 1<br>
 👐      
