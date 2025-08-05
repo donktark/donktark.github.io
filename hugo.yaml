@@ -1,4 +1,4 @@
-baseURL: 'https://donktark.github.io/docs/latest/'
+baseURL: 'https://donktark.github.io/latest/'
 languageCode: en-us
 title: MLops - 기술 블로그
 theme: hextra
@@ -23,11 +23,11 @@ menu:
 
     - identifier: latest
       name: Latest ↗
-      url: https://donktark.github.io/docs/latest/
+      url: https://donktark.github.io/latest/
       parent: Versions
     - identifier: v0.9
       name: v0.9 ↗
-      url: https://donktark.github.io/docs/v0.9/
+      url: https://donktark.github.io/v0.9/
       parent: Versions
 
     - name: Github
