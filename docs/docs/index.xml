@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLops 기술 블로그 – 튜토리얼 문서</title>
-    <link>https://donktark.github.io/docs/</link>
+    <link>https://donktark.github.io/v0.9/docs/</link>
     <description>Recent content in 튜토리얼 문서 on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 31 Jul 2025 15:01:08 +0900</lastBuildDate>
     
-	  <atom:link href="https://donktark.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://donktark.github.io/v0.9/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,17 +17,17 @@
     
     <item>
       <title>본문1 - 이미지</title>
-      <link>https://donktark.github.io/docs/body_text/body_post/</link>
+      <link>https://donktark.github.io/v0.9/docs/body_text/body_post/</link>
       <pubDate>Mon, 04 Aug 2025 13:17:22 +0900</pubDate>
       
-      <guid>https://donktark.github.io/docs/body_text/body_post/</guid>
+      <guid>https://donktark.github.io/v0.9/docs/body_text/body_post/</guid>
       <description>
         
         
         &lt;h2&gt;이미지 삽입&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;이미지-삽입&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;이미지 삽입하기&lt;/p&gt;
 &lt;h3&gt;로컬 이미지 삽입&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;로컬-이미지-삽입&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%eb%a1%9c%ec%bb%ac-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://donktark.github.io/images/cat_photo.jpg&#34; width=120%&gt;
+    &lt;a href=&#34;#%eb%a1%9c%ec%bb%ac-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://donktark.github.io/v0.9/images/cat_photo.jpg&#34; width=120%&gt;
 &lt;h3&gt;인터넷 이미지 삽입&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;인터넷-이미지-삽입&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp&#34; width=120%&gt;
       </description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>소개</title>
-      <link>https://donktark.github.io/docs/intro/introduction/</link>
+      <link>https://donktark.github.io/v0.9/docs/intro/introduction/</link>
       <pubDate>Thu, 31 Jul 2025 15:04:02 +0900</pubDate>
       
-      <guid>https://donktark.github.io/docs/intro/introduction/</guid>
+      <guid>https://donktark.github.io/v0.9/docs/intro/introduction/</guid>
       <description>
         
         
@@ -102,10 +102,10 @@ code2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-bt
     
     <item>
       <title>본문2 - Chart.js</title>
-      <link>https://donktark.github.io/docs/body_text/body_post2/</link>
+      <link>https://donktark.github.io/v0.9/docs/body_text/body_post2/</link>
       <pubDate>Mon, 04 Aug 2025 13:29:20 +0900</pubDate>
       
-      <guid>https://donktark.github.io/docs/body_text/body_post2/</guid>
+      <guid>https://donktark.github.io/v0.9/docs/body_text/body_post2/</guid>
       <description>
         
         
