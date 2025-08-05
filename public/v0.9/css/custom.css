@@ -1,0 +1,9 @@
+.colorbox {
+  background-color: #57dbaf;
+  padding: 1em 25em;
+  border-radius: 3px;
+}
+
+.dark .colorbox {
+  background-color: #117060;
+}
