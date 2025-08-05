@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://donktark.github.io/community/author/</loc>
+    <lastmod>2025-08-05T15:28:53+09:00</lastmod>
+  </url><url>
     <loc>https://donktark.github.io/prereq/prereq1/</loc>
     <lastmod>2025-08-04T16:30:59+09:00</lastmod>
     <xhtml:link
@@ -70,6 +73,9 @@
                 href="https://donktark.github.io/docs/"
                 />
   </url><url>
+    <loc>https://donktark.github.io/community/comm/</loc>
+    <lastmod>2025-08-04T17:06:56+09:00</lastmod>
+  </url><url>
     <loc>https://donktark.github.io/docs/body_text/body_post2/</loc>
     <lastmod>2025-08-04T13:29:20+09:00</lastmod>
     <xhtml:link
@@ -97,7 +103,7 @@
                 />
   </url><url>
     <loc>https://donktark.github.io/</loc>
-    <lastmod>2025-08-04T17:06:56+09:00</lastmod>
+    <lastmod>2025-08-05T15:28:53+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

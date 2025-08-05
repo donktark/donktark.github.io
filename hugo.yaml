@@ -17,6 +17,19 @@ menu:
       name: Community
       pageRef: /community
       weight: 5
+    - identifier: Versions
+      name: Versions
+      weight: 6
+
+    - identifier: latest
+      name: Latest ↗
+      url: https://donktark.github.io/versions/latest/
+      parent: Versions
+    - identifier: v0.9
+      name: v0.9 ↗
+      url: https://donktark.github.io/versions/v0.9/
+      parent: Versions
+
     - name: Github
       url: "https://github.com/donktark/donktark.github.io"
       weight: 7
