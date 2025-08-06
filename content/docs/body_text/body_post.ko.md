@@ -7,7 +7,7 @@ weight: 1
 ## 이미지 삽입
 이미지 삽입하기
 ### 로컬 이미지 삽입
-<img src="images/cat_photo.png" width=120%>
+<img src="images/cat_photo.jpg" width=120%>
 
 <br>
 
