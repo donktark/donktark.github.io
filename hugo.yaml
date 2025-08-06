@@ -3,6 +3,11 @@ languageCode: en-us
 title: MLops 기술 블로그
 theme: hextra
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      
 menu:
   main:
     - identifier: Tutorial
@@ -62,7 +67,3 @@ languages:
     languageName: English
     weight: 2
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
