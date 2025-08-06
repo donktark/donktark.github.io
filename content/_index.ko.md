@@ -3,7 +3,7 @@ title: MLOps 기술 블로그
 layout: hextra-home
 ---
 
-<section class="colorbox hx:w-full hx:sm:w-full hx:max-md:min-h-[340px]" style="text-align: center;">
+<section class="colorbox hx:w-full" style="text-align: center;">
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
 MLOps 기술 블로그&nbsp;<br class="hx:sm:block hx:hidden" />
