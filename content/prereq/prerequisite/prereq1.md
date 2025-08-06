@@ -1,7 +1,7 @@
 ---
 date: '2025-08-04T16:30:59+09:00'
 draft: false
-title: '사전 요구 사항'
+title: '사전 요구 사항 - 하위 항목'
 bookSidebar: prereq
 weight: 1
 ---
