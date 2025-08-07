@@ -7,3 +7,19 @@
 .dark .colorbox {
   background-color: #117060;
 }
+
+@media (min-width: 768px) {
+  .hextra-max-page-width {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .hextra-max-navbar-width {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
