@@ -7,39 +7,44 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-      
+
 menu:
   main:
     - identifier: Tutorial
       name: Tutorial
       pageRef: /docs
       weight: 1
-    - identifier: Prerequisite
-      name: Prerequisite
-      pageRef: /prereq
-      weight: 3
+    # - identifier: Prerequisite
+    #   name: Prerequisite
+    #   pageRef: /prereq
+    #   weight: 3
     - identifier: Community
       name: Community
       pageRef: /community
       weight: 5
-    - identifier: Versions
-      name: Versions
-      weight: 6
 
-    - identifier: latest
-      name: Latest ↗
-      url: https://donktark.github.io/latest/
-      parent: Versions
-    - identifier: v0.9
-      name: v0.9 ↗
-      url: https://donktark.github.io/v0.9/
-      parent: Versions
+
+    # - identifier: Versions
+    #   name: Versions
+    #   weight: 6
+
+    # - identifier: latest
+    #   name: Latest ↗
+    #   url: https://donktark.github.io/latest/
+    #   parent: Versions
+    # - identifier: v0.9
+    #   name: v0.9 ↗
+    #   url: https://donktark.github.io/v0.9/
+    #   parent: Versions
 
     - name: Github
       url: "https://github.com/donktark/donktark.github.io"
       weight: 7
       params:
         icon: github
+
+
+      
 
 params:
   defaultSection: docs
@@ -51,6 +56,8 @@ params:
       link: /latest
       width: 36
       height: 36
+    items:
+      -type: language
   theme:
     defalut: system
     displayToggle: true
@@ -61,9 +68,9 @@ params:
 defaultContentLanguage: ko
 languages:
   ko:
-    languageName: 한국어
+    languageName: 🇰🇷한국어
     weight: 1
   en:
-    languageName: English
+    languageName: 🇬🇧English
     weight: 2
 
