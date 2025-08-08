@@ -7,6 +7,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  tableOfContents:
+    endLevel: 1
+    ordered: false
+    startLevel: 0
 
 menu:
   main:

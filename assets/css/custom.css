@@ -23,3 +23,7 @@
     padding-right: 1rem;
   }
 }
+
+nav.hextra-toc div.hextra-scrollbar ul ul ul {
+  display: none !important;
+}

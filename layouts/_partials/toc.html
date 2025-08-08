@@ -83,7 +83,9 @@
       </li>
     {{- end -}}
     {{- with .Headings -}}
-      {{ template "toc-subheading" (dict "headings" . "level" (add $level 1)) }}
+      {{- if lt $level 1 -}}
+        {{ template "toc-subheading" (dict "headings" . "level" (add $level 1)) }}
+      {{- end -}}
     {{- end -}}
 
   {{- end -}}
