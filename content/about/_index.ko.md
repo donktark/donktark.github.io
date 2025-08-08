@@ -1,6 +1,6 @@
 ---
-date: '2025-07-31T17:28:26+09:00'
-draft: true
+date: '2025-08-08T09:23:57+09:00'
+draft: false
 title: 'About'
 bookSidebar: about
 ---
