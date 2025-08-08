@@ -18,9 +18,9 @@ menu:
     #   name: Prerequisite
     #   pageRef: /prereq
     #   weight: 3
-    - identifier: Community
-      name: Community
-      pageRef: /community
+    - identifier: About
+      name: About
+      pageRef: /about
       weight: 5
 
 
@@ -42,9 +42,6 @@ menu:
       weight: 7
       params:
         icon: github
-
-
-      
 
 params:
   defaultSection: docs
