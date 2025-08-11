@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MLops 기술 블로그 – 사전 요구 사항 - 항목</title>
+    <title>MLops 기술 블로그 – 사전요구사항</title>
     <link>https://donktark.github.io/latest/prereq/prerequisite/</link>
-    <description>Recent content in 사전 요구 사항 - 항목 on MLops 기술 블로그</description>
+    <description>Recent content in 사전요구사항 on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 31 Jul 2025 17:27:57 +0900</lastBuildDate>
@@ -16,7 +16,7 @@
     
     
     <item>
-      <title>사전 요구 사항 - 하위 항목</title>
+      <title>사전 요구 사항</title>
       <link>https://donktark.github.io/latest/prereq/prerequisite/prereq1/</link>
       <pubDate>Mon, 04 Aug 2025 16:30:59 +0900</pubDate>
       

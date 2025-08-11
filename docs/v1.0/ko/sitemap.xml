@@ -2,18 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://donktark.github.io/latest/about/author/</loc>
+    <loc>https://donktark.github.io/latest/community/author/</loc>
     <lastmod>2025-08-05T15:28:53+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donktark.github.io/latest/en/about/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donktark.github.io/latest/about/author/"
-                />
   </url><url>
     <loc>https://donktark.github.io/latest/prereq/prereq1/</loc>
     <lastmod>2025-08-04T16:30:59+09:00</lastmod>
@@ -83,18 +73,8 @@
                 href="https://donktark.github.io/latest/docs/"
                 />
   </url><url>
-    <loc>https://donktark.github.io/latest/about/comm/</loc>
+    <loc>https://donktark.github.io/latest/community/comm/</loc>
     <lastmod>2025-08-04T17:06:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donktark.github.io/latest/en/about/comm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donktark.github.io/latest/about/comm/"
-                />
   </url><url>
     <loc>https://donktark.github.io/latest/docs/body_text/body_post2/</loc>
     <lastmod>2025-08-04T13:29:20+09:00</lastmod>
@@ -122,34 +102,8 @@
                 href="https://donktark.github.io/latest/docs/body_text/"
                 />
   </url><url>
-    <loc>https://donktark.github.io/latest/docs/body_text/body_post3/</loc>
-    <lastmod>2025-08-07T16:41:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donktark.github.io/latest/en/docs/body_text/body_post3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donktark.github.io/latest/docs/body_text/body_post3/"
-                />
-  </url><url>
-    <loc>https://donktark.github.io/latest/about/</loc>
-    <lastmod>2025-08-08T09:23:57+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donktark.github.io/latest/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donktark.github.io/latest/about/"
-                />
-  </url><url>
     <loc>https://donktark.github.io/latest/</loc>
-    <lastmod>2025-08-08T09:23:57+09:00</lastmod>
+    <lastmod>2025-08-05T15:28:53+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -159,6 +113,32 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://donktark.github.io/latest/"
+                />
+  </url><url>
+    <loc>https://donktark.github.io/latest/community/</loc>
+    <lastmod>2025-07-31T17:28:26+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://donktark.github.io/latest/en/community/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://donktark.github.io/latest/community/"
+                />
+  </url><url>
+    <loc>https://donktark.github.io/latest/prereq/</loc>
+    <lastmod>2025-07-31T17:27:57+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://donktark.github.io/latest/en/prereq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://donktark.github.io/latest/prereq/"
                 />
   </url><url>
     <loc>https://donktark.github.io/latest/prereq/prerequisite/</loc>
