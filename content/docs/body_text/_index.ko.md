@@ -11,4 +11,5 @@ weight: 2
     {{< card link= "body_post" title="본문1 - 이미지" icon="document-duplicate" >}}
     {{< card link= "body_post2" title="본문2 - Chart.js" icon="document-duplicate" >}}
     {{< card link= "body_post3" title="본문3 - Alerts" icon="document-duplicate" >}}
+    {{< card link= "body_post4" title="본문4 - 다이어그램" icon="document-duplicate" >}}
 {{< /cards >}}

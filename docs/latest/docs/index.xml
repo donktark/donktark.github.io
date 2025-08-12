@@ -33,8 +33,29 @@
   &lt;/figure&gt;&lt;/p&gt;
 &lt;br&gt;
 &lt;h3&gt;웹 이미지 삽입&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;웹-이미지-삽입&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%ec%9b%b9-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;img src=&#34;https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp&#34; width=120%&gt;
-▲ HTML로 넣은 이미지
+    &lt;a href=&#34;#%ec%9b%b9-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;div class=&#34;hextra-scrollbar hx:overflow-x-auto hx:overflow-y-hidden hx:overscroll-x-contain&#34;&gt;
+  &lt;div class=&#34;hx:mt-4 hx:flex hx:w-max hx:min-w-full hx:border-b hx:border-gray-200 hx:pb-px hx:dark:border-neutral-800&#34;&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-0&#34; aria-selected=&#34;true&#34;  tabindex=&#34;0&#34;  data-state=&#34;selected&#34;&gt;Kitty&lt;/button&gt;&lt;button
+        class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
+        role=&#34;tab&#34;
+        type=&#34;button&#34;
+        aria-controls=&#34;tabs-panel-1&#34;&gt; Puppy&lt;/button&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+    &lt;div
+  class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+  id=&#34;tabs-panel-0&#34;
+  role=&#34;tabpanel&#34; tabindex=&#34;0&#34;  data-state=&#34;selected&#34; &gt; &lt;img src=&#34;https://i.namu.wiki/i/abZPxKt_L98I8ttqw56pLHtGiR5pAV4YYmpR3Ny3_n0yvff5IDoKEQFof7EbzJUSZ_-uzR5S7tzTzGQ346Qixw.webp&#34; width=120%&gt; &lt;/div&gt; 
+    &lt;div
+  class=&#34;hextra-tabs-panel hx:rounded-sm hx:pt-6 hx:hidden hx:data-[state=selected]:block&#34;
+  id=&#34;tabs-panel-1&#34;
+  role=&#34;tabpanel&#34;&gt; &lt;img src= &#34;https://images.unsplash.com/photo-1583160247711-2191776b4b91?fm=jpg&amp;q=60&amp;w=3000&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZG9nJTIwZmxvd2Vyc3xlbnwwfHwwfHx8MA%3D%3D&#34; width=120%&gt; &lt;/div&gt; 
+&lt;/div&gt;
+▲ HTML로 넣은 이미지&lt;/p&gt;
+
       </description>
     </item>
     
@@ -116,6 +137,64 @@ code2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-bt
         
         &lt;h2&gt;차트 삽입&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;차트-삽입&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%ec%b0%a8%ed%8a%b8-%ec%82%bd%ec%9e%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;차트 삽입하기&lt;/p&gt;
+&lt;div class=&#34;hextra-filetree hx:mt-6 hx:select-none hx:text-sm hx:text-gray-800 hx:dark:text-gray-300 not-prose&#34;&gt;
+  &lt;div class=&#34;hx:inline-block hx:rounded-lg hx:px-4 hx:py-2 hx:border hx:border-gray-200 hx:dark:border-neutral-800&#34;&gt;
+  
+
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+  &lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34;&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+    &lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;layouts&lt;/span&gt;
+  &lt;/button&gt;
+  &lt;ul data-state=&#34;open&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+  
+
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+&lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34;&gt;
+  &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+  &lt;span data-state=&#34;open&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+  &lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;_shortcodes&lt;/span&gt;
+&lt;/button&gt;
+&lt;ul data-state=&#34;open&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+  
+
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+&lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34;&gt;
+&lt;span data-state=&#34;closed&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;span data-state=&#34;closed&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;filetree&lt;/span&gt;
+&lt;/button&gt;
+&lt;ul data-state=&#34;closed&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+  
+
+&lt;li class=&#34;hx:group hx:flex hx:list-none hx:flex-col&#34;&gt;
+&lt;button class=&#34;hextra-filetree-folder hx:inline-flex hx:cursor-pointer hx:items-center hx:py-1 hx:hover:opacity-60&#34;&gt;
+&lt;span data-state=&#34;closed&#34; class=&#34;hx:data-[state=open]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;span data-state=&#34;closed&#34; class=&#34;hx:data-[state=closed]:hidden&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M5 19a2 2 0 01-2-2V7a2 2 0 012-2h4l2 2h4a2 2 0 012 2v1M5 19h14a2 2 0 002-2v-5a2 2 0 00-2-2H9a2 2 0 00-2 2v5a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
+&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;hextra&lt;/span&gt;
+&lt;/button&gt;
+&lt;ul data-state=&#34;closed&#34; class=&#34;hx:ltr:pl-5 hx:rtl:pr-5 hx:data-[state=closed]:hidden&#34;&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+
+  &lt;li class=&#34;hx:flex hx:list-none&#34;&gt;
+    &lt;span class=&#34;hx:inline-flex hx:cursor-default hx:items-center hx:py-1&#34;&gt;&lt;svg width=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z&#34;/&gt;&lt;/svg&gt;&lt;span class=&#34;hx:ltr:ml-1 hx:rtl:mr-1&#34;&gt;chart.html ✔&lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/li&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h3&gt;막대 차트&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;막대-차트&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%eb%a7%89%eb%8c%80-%ec%b0%a8%ed%8a%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/chart.js&#34;&gt;&lt;/script&gt;
 &lt;script&gt; Chart.defaults.color = &#39;#bcbcbc&#39;; &lt;/script&gt;&lt;div class=&#34;chart&#34;&gt;
@@ -259,6 +338,44 @@ code2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-bt
   &lt;/div&gt;
 &lt;/div&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>본문4 - 다이어그램</title>
+      <link>https://donktark.github.io/latest/docs/body_text/body_post4/</link>
+      <pubDate>Tue, 12 Aug 2025 14:23:17 +0900</pubDate>
+      
+      <guid>https://donktark.github.io/latest/docs/body_text/body_post4/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;다이어그램 그리기&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;다이어그램-그리기&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%eb%8b%a4%ec%9d%b4%ec%96%b4%ea%b7%b8%eb%9e%a8-%ea%b7%b8%eb%a6%ac%ea%b8%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;다이어그램 그리기&lt;/p&gt;
+&lt;h3&gt;Mermaid를 이용한 다이어그램&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mermaid를-이용한-다이어그램&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mermaid%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-%eb%8b%a4%ec%9d%b4%ec%96%b4%ea%b7%b8%eb%9e%a8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;TD 그래프&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;td-그래프&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#td-%ea%b7%b8%eb%9e%98%ed%94%84&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;code&gt;graph TD&lt;/code&gt;를 이용한 다이어그램&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
+  graph TD;
+    A--&amp;gt;B;
+    A--&amp;gt;C;
+    B--&amp;gt;D;
+    C--&amp;gt;D;
+&lt;/pre&gt;&lt;h4&gt;시퀀스&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;시퀀스&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%ec%8b%9c%ed%80%80%ec%8a%a4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;code&gt;sequenceDiagram&lt;/code&gt;를 이용한 다어이그램&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
+  sequenceDiagram;
+    participant 고양이
+    participant 다람쥐
+    participant 강아지
+    고양이--&amp;gt;&amp;gt;다람쥐: 안녕, 토끼야?
+    loop 황당
+        다람쥐--&amp;gt;&amp;gt;다람쥐: 내가 토끼라고?
+    end
+    Note over 강아지: 저런, 내가 설명해줘야겠어!
+    강아지--&amp;gt;&amp;gt;고양이: 아냐 얘는 생쥐야.
+    다람쥐--&amp;gt;&amp;gt;강아지: 나는 다람쥐야!
+&lt;/pre&gt;
       </description>
     </item>
     

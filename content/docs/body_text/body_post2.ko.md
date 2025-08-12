@@ -6,6 +6,19 @@ weight: 2
 ---
 ## 차트 삽입
 차트 삽입하기
+
+{{< filetree/container >}}
+  {{< filetree/folder name="layouts" >}}
+    {{< filetree/folder name="_shortcodes" >}}
+        {{< filetree/folder name="filetree" state="closed" >}}
+        {{< /filetree/folder >}}
+        {{< filetree/folder name="hextra" state="closed" >}}
+        {{< /filetree/folder >}}
+        {{< filetree/file name="chart.html ✔" >}}
+    {{< /filetree/folder >}}
+  {{< /filetree/folder >}}
+{{< /filetree/container >}}
+
 ### 막대 차트
 {{< chart >}}
 {

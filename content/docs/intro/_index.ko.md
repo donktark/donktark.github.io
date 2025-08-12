@@ -7,5 +7,5 @@ weight: 1
 ---
 
 {{< cards >}}
-    {{< card link= "introduction" title="소개" icon="sparkles" >}}
+    {{< card link= "/docs/intro/introduction" title="소개" icon="sparkles" >}}
 {{< /cards >}}
