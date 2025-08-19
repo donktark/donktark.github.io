@@ -1,4 +1,4 @@
-baseURL: 'https://donktark.github.io/latest/'
+baseURL: 'https://donktark.github.io/'
 languageCode: en-us
 title: MLops 기술 블로그
 theme: hextra
@@ -45,6 +45,8 @@ menu:
       name : 
       url : "#"
       weight : 6
+      params:
+        icon: github
 
     - name: Github
       url: "https://github.com/donktark/donktark.github.io"

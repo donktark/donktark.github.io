@@ -37,7 +37,7 @@ a[href="#"] {
   pointer-events: none;
   color: transparent;
   background: none;
-  width: 30%;
+  width: 20%;
   flex-grow: 1;
-  min-width: 50px;
+  min-width: 1em;
 }
