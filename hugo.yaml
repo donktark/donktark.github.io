@@ -61,7 +61,7 @@ params:
     displayLogo: true
     logo:
       path: images/logo.png
-      link: /latest
+      link: /
       width: 36
       height: 36
     items:

@@ -25,13 +25,13 @@ graph TD;
 ```mermaid
 sequenceDiagram;
     participant 고양이
-    participant 다람쥐
+    participant 햄스터
     participant 강아지
-    고양이-->>다람쥐: 안녕, 토끼야?
+    고양이-->>햄스터: 안녕, 토끼야?
     loop 황당
-        다람쥐-->>다람쥐: 내가 토끼라고?
+        햄스터-->>햄스터: 내가 토끼라고?
     end
     Note over 강아지: 저런, 내가 설명해줘야겠어!
     강아지-->>고양이: 아냐 얘는 생쥐야.
-    다람쥐-->>강아지: 나는 다람쥐야!
+    햄스터-->>강아지: 나는 햄스터야!
 ```

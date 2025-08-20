@@ -1,7 +1,7 @@
 ---
 date: '2025-08-04T13:17:22+09:00'
 draft: false
-title: '본문1 - 이미지'
+title: '본문1 - Images'
 weight: 1
 ---
 ## image insertion

@@ -38,11 +38,11 @@
         class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
         role=&#34;tab&#34;
         type=&#34;button&#34;
-        aria-controls=&#34;tabs-panel-0&#34; aria-selected=&#34;true&#34;  tabindex=&#34;0&#34;  data-state=&#34;selected&#34;&gt;Kitty&lt;/button&gt;&lt;button
+        aria-controls=&#34;tabs-panel-0&#34; aria-selected=&#34;true&#34;  tabindex=&#34;0&#34;  data-state=&#34;selected&#34;&gt;고양이&lt;/button&gt;&lt;button
         class=&#34;hextra-tabs-toggle hx:cursor-pointer hx:data-[state=selected]:border-primary-500 hx:data-[state=selected]:text-primary-600 hx:data-[state=selected]:dark:border-primary-500 hx:data-[state=selected]:dark:text-primary-600 hx:mr-2 hx:rounded-t hx:p-2 hx:font-medium hx:leading-5 hx:transition-colors hx:-mb-0.5 hx:select-none hx:border-b-2 hx:border-transparent hx:text-gray-600 hx:hover:border-gray-200 hx:hover:text-black hx:dark:text-gray-200 hx:dark:hover:border-neutral-800 hx:dark:hover:text-white&#34;
         role=&#34;tab&#34;
         type=&#34;button&#34;
-        aria-controls=&#34;tabs-panel-1&#34;&gt; Puppy&lt;/button&gt;&lt;/div&gt;
+        aria-controls=&#34;tabs-panel-1&#34;&gt; 강아지&lt;/button&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div&gt;
     &lt;div
@@ -299,15 +299,15 @@
 &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
   sequenceDiagram;
     participant 고양이
-    participant 다람쥐
+    participant 햄스터
     participant 강아지
-    고양이--&amp;gt;&amp;gt;다람쥐: 안녕, 토끼야?
+    고양이--&amp;gt;&amp;gt;햄스터: 안녕, 토끼야?
     loop 황당
-        다람쥐--&amp;gt;&amp;gt;다람쥐: 내가 토끼라고?
+        햄스터--&amp;gt;&amp;gt;햄스터: 내가 토끼라고?
     end
     Note over 강아지: 저런, 내가 설명해줘야겠어!
     강아지--&amp;gt;&amp;gt;고양이: 아냐 얘는 생쥐야.
-    다람쥐--&amp;gt;&amp;gt;강아지: 나는 다람쥐야!
+    햄스터--&amp;gt;&amp;gt;강아지: 나는 햄스터야!
 &lt;/pre&gt;
       </description>
     </item>
