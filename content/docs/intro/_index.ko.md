@@ -1,7 +1,7 @@
 ---
 date: '2025-07-31T15:03:52+09:00'
 draft: false
-title: 'Introduction'
+title: '블로그 소개'
 next: /docs/body_text
 weight: 1
 ---

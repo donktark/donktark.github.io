@@ -86,6 +86,43 @@ weight: 2
             ]
         }]
     },
-    options: {}
+    options: {
+        "scales": {
+            "y": {
+            "beginAtZero": true}}
+    }
+}
+{{< /chart >}}
+### 혼합 차트
+{{< chart >}}
+{
+    type: 'line',
+    data: {
+        labels: ['Red', 'Blue', 'Green'],
+        datasets: [{
+            label: 'Mixed - Line',
+            type: 'line',
+            borderColor: 'rgba(255, 217, 0, 1)',
+            data: [7, 4, 9],
+            fill: false,
+            }, {
+            label: 'Mixed - Bar',
+            type: 'bar',
+            data: [6, 11, 9],
+            backgroundColor: [
+                'rgb(255, 2, 15)',
+                'rgb(2, 68, 255)',
+                'rgb(18,213,3)'
+            ],
+            barThickness: 80,
+        }]
+    },
+    options: {
+        responsive: true,
+        title: {
+            display: true,
+            text: "Mixed Chart Types"
+        }
+    }
 }
 {{< /chart >}}

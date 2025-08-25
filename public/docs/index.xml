@@ -260,11 +260,11 @@ code2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-bt
 &lt;/script&gt;
 &lt;h3&gt;라인 차트&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;라인-차트&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%eb%9d%bc%ec%9d%b8-%ec%b0%a8%ed%8a%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;chart&#34;&gt;
-    &lt;canvas id=&#34;f5af5a566b5bdafd&#34;&gt;&lt;/canvas&gt;
+    &lt;canvas id=&#34;140bb8f1ae3470db&#34;&gt;&lt;/canvas&gt;
 &lt;/div&gt;
 &lt;script&gt;
     document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
-        var ctx = document.getElementById(&#39;f5af5a566b5bdafd&#39;)
+        var ctx = document.getElementById(&#39;140bb8f1ae3470db&#39;)
         var options = 
 {
     type: &#39;line&#39;,
@@ -284,7 +284,52 @@ code2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-bt
             ]
         }]
     },
-    options: {}
+    options: {
+        &#34;scales&#34;: {
+            &#34;y&#34;: {
+            &#34;beginAtZero&#34;: true}}
+    }
+};
+        new Chart(ctx, options);
+    });
+&lt;/script&gt;
+&lt;h3&gt;혼합 차트&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;혼합-차트&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%ed%98%bc%ed%95%a9-%ec%b0%a8%ed%8a%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;chart&#34;&gt;
+    &lt;canvas id=&#34;d69e543fed040d18&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+        var ctx = document.getElementById(&#39;d69e543fed040d18&#39;)
+        var options = 
+{
+    type: &#39;line&#39;,
+    data: {
+        labels: [&#39;Red&#39;, &#39;Blue&#39;, &#39;Green&#39;],
+        datasets: [{
+            label: &#39;Mixed - Line&#39;,
+            type: &#39;line&#39;,
+            borderColor: &#39;rgba(255, 217, 0, 1)&#39;,
+            data: [7, 4, 9],
+            fill: false,
+            }, {
+            label: &#39;Mixed - Bar&#39;,
+            type: &#39;bar&#39;,
+            data: [6, 11, 9],
+            backgroundColor: [
+                &#39;rgb(255, 2, 15)&#39;,
+                &#39;rgb(2, 68, 255)&#39;,
+                &#39;rgb(18,213,3)&#39;
+            ],
+            barThickness: 80,
+        }]
+    },
+    options: {
+        responsive: true,
+        title: {
+            display: true,
+            text: &#34;Mixed Chart Types&#34;
+        }
+    }
 };
         new Chart(ctx, options);
     });

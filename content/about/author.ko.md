@@ -9,12 +9,14 @@ weight : 1
 {{< card 
     link="https://github.com/donktark/donktark.github.io"
     title="이동현"
+    subtitle="[설명을 여기에 입력 1]<br>[설명을 여기에 입력 2]"
     image="/images/profile.jpg"
     imageStyle="object-fit:cover; aspect-ratio:8/8;"
 >}}
 {{< card
-    link="http://localhost:1313/community/author/"
+    link="/about/"
     title=" [작성자를 여기에 입력] "
+    subtitle="[설명을 여기에 입력]"    
     image=""
     imageStyle="object-fit:cover; aspect-ratio:8/8;"
 >}}
