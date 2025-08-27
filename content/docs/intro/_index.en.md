@@ -4,3 +4,8 @@ draft: false
 title: 'Introduction'
 weight: 1
 ---
+
+
+{{< cards >}}
+    {{< card link= "/docs/intro/introduction" title="Blog Introduction" icon="sparkles" >}}
+{{< /cards >}}

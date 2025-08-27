@@ -67,6 +67,19 @@
                 href="https://donktark.github.io/en/docs/intro/"
                 />
   </url><url>
+    <loc>https://donktark.github.io/en/docs/</loc>
+    <lastmod>2025-07-31T15:01:08+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://donktark.github.io/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://donktark.github.io/en/docs/"
+                />
+  </url><url>
     <loc>https://donktark.github.io/en/about/comm/</loc>
     <lastmod>2025-08-04T17:06:56+09:00</lastmod>
     <xhtml:link
@@ -169,19 +182,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://donktark.github.io/en/prereq/prerequisite/"
-                />
-  </url><url>
-    <loc>https://donktark.github.io/en/docs/</loc>
-    <lastmod>2025-07-31T15:01:08+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donktark.github.io/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donktark.github.io/en/docs/"
                 />
   </url><url>
     <loc>https://donktark.github.io/en/categories/</loc>
