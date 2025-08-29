@@ -42,10 +42,14 @@ a[href="#"] {
   min-width: 1em;
 }
 
-.hextra-scrollbar, .search-input {
-  background-color: inherit;
+@media (max-width: 768px) {
+  .hextra-scrollbar,
+  .search-input {
+    transition: background-color 0.7s ease, border-color 0.8s ease, box-shadow 0.7s ease; 
+  }
 }
 
 body, main, html, aside, section, h2, nav, article, a, footer, header, div, ::before, ::after, .sidebar-container {
   transition: background-color 0.7s ease, border-color 0.8s ease, box-shadow 0.7s ease;
 }
+
